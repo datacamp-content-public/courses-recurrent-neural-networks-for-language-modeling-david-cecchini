@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## 1.4: Introduction to RNN inside keras
+
+```yaml
+type: VideoExercise
+key: 2dfbefc0e9
+xp: 50
+```
+
+`@projector_key`
+2847e99af5600b3417ed8cd26d2804a3
