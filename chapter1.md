@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## 1.4: Introduction to RNN inside keras
+## Introduction to RNN inside keras
 
 ```yaml
 type: VideoExercise
